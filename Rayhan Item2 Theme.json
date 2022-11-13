@@ -15,7 +15,7 @@
     "Blue Component" : 0,
     "Green Component" : 0.59999999999999998
   },
-  "Draw Powerline Glyphs" : true,
+  "Draw Powerline Glyphs" : false,
   "Bold Color" : {
     "Red Component" : 0.57647058823529407,
     "Color Space" : "sRGB",
